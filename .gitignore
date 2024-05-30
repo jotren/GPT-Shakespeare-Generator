@@ -16,3 +16,4 @@ __pycache__/
 *.joblib
 /models/trained-models/
 *.txt
+/models/model_weights.pth
